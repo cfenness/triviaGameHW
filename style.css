@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+  background-image: url("http://clipart-library.com/image_gallery/190911.png");
+}
+
+.jumbotron {
+  background-color: transparent;
+}
+
+#wrapper {
+  width: 960px;
+  min-height: 80%;
+  box-sizing: border-box;
+  padding: 5% 0;
+  margin: 5% auto;
+  background-color: #0f8e29;
+  border-radius: 25px;
+}
+
+#sub-wrapper {
+  position: relative;
+  top: 20%;
+  color: #e7e7e7
+}
+
+button {
+  display: block;
+  width: 400px;
+  height: 100px;
+  margin: 10px auto 0;
+  font-size: 55px;
+  cursor: pointer;
+  background: transparent;
+  border-style: dashed;
+  color: #ffffff;
+}
